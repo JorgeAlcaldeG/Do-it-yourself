@@ -1,5 +1,5 @@
 # Do-it-yourself
-
+El resultado que debería quedar es el archivo llamado "resultado"
 Regla1. Un ID llamado fondo con:
     -Boder radius: 5px
     -Fondo blanco
